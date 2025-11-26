@@ -1,4 +1,4 @@
-# 🎮 BoardGameTTT
+# 🎮 Get Cat Fact
 
 Genera factos y hace un fetch a una api para recuperar una imagen con las 3 primeras palabras del fact
 
